@@ -12,4 +12,5 @@ class TestingController extends Controller
     echo "changes by devloper";
     echo "hjhjj by dev";
     echo "edited by devloper";
+    echo "devloper by edited";
 }
