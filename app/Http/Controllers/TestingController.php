@@ -8,4 +8,5 @@ class TestingController extends Controller
 {
     echo "hello";
     echo "hello again";
+    echo "changes by amay";
 }
