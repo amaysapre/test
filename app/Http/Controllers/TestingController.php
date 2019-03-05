@@ -9,4 +9,5 @@ class TestingController extends Controller
     echo "hello";
     echo "hello again";
     echo "changes by amay";
+    echo "changes by devloper";
 }
