@@ -7,4 +7,5 @@ use Illuminate\Http\Request;
 class TestingController extends Controller
 {
     echo "hello";
+    echo "hello again";
 }
